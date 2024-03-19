@@ -1,0 +1,325 @@
+Agaricus
+almond_mushroom
+Amanita
+Amanita citrina
+Amanita muscaria
+Amanita pantherina
+Amanita rubescens
+amanita_gemmata
+amethyst_chanterelle
+amethyst_deceiver
+aniseed_funnel
+Apioperdon pyriforme
+Armillaria borealis
+Artomyces pyxidatus
+ascot_hat
+bay_bolete
+bearded_milkcap
+beechwood_sickener
+beefsteak_fungus
+birch_polypore
+birch_woodwart
+bitter_beech_bolete
+bitter_bolete
+Bjerkandera adusta
+blackening_brittlegill
+blackening_polypore
+blackening_waxcap
+black_bulgar
+black_morel
+blue_roundhead
+blushing_bracket
+blushing_rosette
+blushing_wood_mushroom
+Boletus
+Boletus edulis
+Boletus reticulatus
+bovine_bolete
+bronze_bolete
+brown_birch_bolete
+brown_rollrim
+bruising_webcap
+butter_cap
+Calocera viscosa
+Calycina citrina
+Cantharellus cibarius
+cauliflower_fungus
+cedarwood_waxcap
+Cerioporus squamosus
+Cetraria islandica
+chanterelle
+charcoal_burner
+chestnut_bolete
+chicken_of_the_woods
+Chlorociboria aeruginascens
+Chondrostereum purpureum
+cinnamon_bracket
+Cladonia fimbriata
+Cladonia rangiferina
+Cladonia stellaris
+Clitocybe nebularis
+clouded_agaric
+clustered_domecap
+Coltricia perennis
+common_bonnet
+common_inkcap
+common_morel
+common_puffball
+common_rustgill
+Coprinellus disseminatus
+Coprinellus micaceus
+Coprinopsis atramentaria
+Coprinus comatus
+Cortinarius
+crimped_gill
+crimson_waxcap
+Crucibulum laeve
+cucumber_cap
+curry_milkcap
+Daedaleopsis confragosa
+Daedaleopsis tricolor
+deadly_fibrecap
+deadly_webcap
+deathcap
+deer_shield
+destroying_angel
+devils_bolete
+dog_stinkhorn
+dryads_saddle
+dusky_puffball
+dyers_mazegill
+earthballs
+egghead_mottlegill
+elfin_saddle
+Entoloma
+Evernia mesomorpha
+Evernia prunastri
+fairy_ring_champignons
+false_chanterelle
+false_deathcap
+false_morel
+false_saffron_milkcap
+fenugreek_milkcap
+field_blewit
+field_mushroom
+Flammulina velutipes
+fleecy_milkcap
+fly_agaric
+Fomes fomentarius
+Fomitopsis betulina
+Fomitopsis pinicola
+fools_funnel
+fragrant_funnel
+freckled_dapperling
+frosted_chanterelle
+funeral_bell
+Ganoderma applanatum
+geranium_brittlegill
+giant_funnel
+giant_puffball
+glistening_inkcap
+golden_bootleg
+golden_scalycap
+golden_waxcap
+Graphis scripta
+greencracked_brittlegill
+grey_knight
+grey_spotted_amanita
+grisettes
+Gyromitra esculenta
+Gyromitra gigas
+Gyromitra infula
+hairy_curtain_crust
+heath_waxcap
+hedgehog_fungus
+hen_of_the_woods
+Hericium coralloides
+honey_fungus
+hoof_fungus
+horn_of_plenty
+horse_mushroom
+Hygrocybe
+Hygrophoropsis aurantiaca
+Hypholoma fasciculare
+Hypholoma lateritium
+Hypogymnia physodes
+Imleria badia
+inky_mushroom
+Inonotus obliquus
+jelly_ears
+jelly_tooth
+jubilee_waxcap
+king_alfreds_cakes
+Kuehneromyces mutabilis
+Lactarius
+Lactarius deliciosus
+Lactarius torminosus
+Lactarius turpis
+Laetiporus sulphureus
+larch_bolete
+Leccinum albostipitatum
+Leccinum aurantiacum
+Leccinum scabrum
+Leccinum versipelle
+leccinum_albostipitatum
+Lepista nuda
+liberty_cap
+lilac_bonnet
+lilac_fibrecap
+lions_mane
+Lobaria pulmonaria
+lurid_bolete
+Lycoperdon perlatum
+Macrolepiota procera
+macro_mushroom
+magpie_inkcap
+meadow_waxcap
+medusa_mushroom
+Merulius tremellosus
+morel
+mosaic_puffball
+Mushrooms
+Mutinus ravenelii
+Nectria cinnabarina
+oak_bolete
+oak_mazegill
+oak_polypore
+ochre_brittlegill
+old_man_of_the_woods
+orange_birch_bolete
+orange_bolete
+orange_grisette
+orange_peel_fungus
+oyster_mushroom
+pale_oyster
+Panellus stipticus
+panthercap
+parasol
+Parmelia sulcata
+parrot_waxcap
+pavement_mushroom
+Paxillus involutus
+Peltigera aphthosa
+Peltigera praetextata
+penny_bun
+peppery_bolete
+pestle_puffball
+Phaeophyscia orbicularis
+Phallus impudicus
+Phellinus igniarius
+Phellinus tremulae
+Phlebia radiata
+Pholiota aurivella
+Pholiota squarrosa
+Physcia adscendens
+pine_bolete
+pink_waxcap
+Platismatia glauca
+Pleurotus ostreatus
+Pleurotus pulmonarius
+plums_and_custard
+poison_pie
+poplar_bell
+poplar_fieldcap
+porcelain_fungus
+powdery_brittlegill
+Pseudevernia furfuracea
+purple_brittlegill
+red_belted_bracket
+red_cracking_bolete
+Rhytisma acerinum
+rooting_bolete
+rooting_shank
+root_rot
+rosy_bonnet
+ruby_bolete
+Russula
+saffron_milkcap
+Sarcomyxa serotina
+Sarcoscypha austriaca
+Sarcosoma globosum
+scaly_wood_mushroom
+scarletina_bolete
+scarlet_caterpillarclub
+scarlet_elfcup
+scarlet_waxcap
+Schizophyllum commune
+semifree_morel
+sepia_bolete
+shaggy_bracket
+shaggy_inkcap
+shaggy_parasol
+shaggy_scalycap
+sheathed_woodtuft
+silky_rosegill
+silverleaf_fungus
+slender_parasol
+slimy_waxcap
+slippery_jack
+smoky_bracket
+snakeskin_grisette
+snowy_waxcap
+spectacular_rustgill
+splendid_waxcap
+splitgill
+spotted_toughshank
+spring_fieldcap
+Stereum hirsutum
+stinkhorn
+stinking_dapperling
+Stropharia aeruginosa
+stubble_rosegill
+stump_puffball
+st_georges_mushroom
+suede_bolete
+Suillus
+Suillus granulatus
+Suillus grevillei
+Suillus luteus
+sulphur_tuft
+summer_bolete
+tawny_funnel
+tawny_grisette
+terracotta_hedgehog
+the_blusher
+the_deceiver
+the_goblet
+the_miller
+the_prince
+the_sickener
+thimble_morel
+Trametes hirsuta
+Trametes ochracea
+Trametes versicolor
+Tremella mesenterica
+Trichaptum biforme
+Tricholomopsis rutilans
+tripe_fungus
+trooping_funnel
+truffles
+tuberous_polypore
+turkey_tail
+Urnula craterium
+velvet_shank
+vermillion_waxcap
+Verpa bohemica
+Vulpicida pinastri
+warted_amanita
+weeping_widow
+white_dapperling
+white_domecap
+white_false_death_cap
+white_fibrecap
+white_saddle
+winter_chanterelle
+woodland_inkcap
+wood_blewit
+wood_mushroom
+woolly_milkcap
+wrinkled_peach
+Xanthoria parietina
+yellow_false_truffle
+yellow_foot_waxcap
+yellow_stagshorn
+yellow_stainer
+yellow_swamp_brittlegill
